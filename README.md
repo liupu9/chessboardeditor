@@ -8,9 +8,9 @@
 * JavaFX 21
 * AtlantaFX 2.0
 
-Main class & method: 
+## 启动类
 ```text
-com.chessboard.editor.Application.main
+com.chessboard.editor.Application
 ```
 
 ## TODO 编辑器(开发计划)

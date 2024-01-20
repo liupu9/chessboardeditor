@@ -3,6 +3,10 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+logs/
+conf/
+system/
+
 ### IntelliJ IDEA ###
 .idea/*.xml
 .idea/.gitignore

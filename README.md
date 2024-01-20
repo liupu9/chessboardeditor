@@ -12,3 +12,9 @@ Main class & method:
 ```text
 com.chessboard.editor.Application.main
 ```
+
+## TODO 编辑器(开发计划)
+
+* 了解FXGL的基础功能
+* 基础棋盘功能
+

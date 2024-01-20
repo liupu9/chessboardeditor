@@ -17,5 +17,12 @@ public interface GameConst {
 
     String FONT_UI = "BlackOpsOne-Regular.ttf";
 
-    List<String> thanksList = List.of("风云0312");
+    /**
+     * 感谢开源库作者名单列表
+     */
+    List<String> thanksList = List.of(
+            "Almas Baimagambetov (AlmasB) (almaslvl@gmail.com)",
+            "赵老板 (fxcity库作者)",
+            "风云0312"
+    );
 }

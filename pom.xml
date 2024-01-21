@@ -22,6 +22,7 @@
         <lombok.version>1.18.30</lombok.version>
         <common-lang3.version>3.13.0</common-lang3.version>
         <commons-collections4.version>4.4</commons-collections4.version>
+        <socketd.version>2.3.6</socketd.version>
     </properties>
 
     <dependencies>
@@ -51,6 +52,11 @@
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-collections4</artifactId>
             <version>${commons-collections4.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.noear</groupId>
+            <artifactId>socketd</artifactId>
+            <version>${socketd.version}</version>
         </dependency>
     </dependencies>
 

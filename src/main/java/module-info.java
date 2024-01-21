@@ -5,7 +5,7 @@ open module com.chessboard.editor {
     requires javafx.media;
     requires atlantafx.base;
     requires org.apache.commons.lang3;
-    requires lombok;
+    requires static lombok;
     requires cn.hutool;
     requires org.apache.commons.collections4;
 }
